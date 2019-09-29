@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  counter = 0 
+  num = [1..5]
+  
+  
 end
